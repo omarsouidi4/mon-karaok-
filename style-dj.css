@@ -1,6 +1,6 @@
 body {
     font-family: 'Lobster', cursive;
-    color: white;
+    color: white; /* Changez cette ligne pour définir la couleur du texte en blanc */
     background-color: black;
     margin: 0;
     padding: 0;
